@@ -1,4 +1,6 @@
-# Registration and Login Example with Spring Security, Spring Boot, Spring Data JPA, MySQL
+# PayWhiz Application
+
+# REST API built with Spring Security, Spring Boot, Spring Data JPA, MySQL
 
 ## Prerequisites
 - JDK 1.7 or later
