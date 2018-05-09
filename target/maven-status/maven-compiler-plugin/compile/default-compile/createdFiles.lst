@@ -1,0 +1,16 @@
+com\paywhiz\auth\repository\TransRepository.class
+com\paywhiz\auth\service\UserServiceImpl.class
+com\paywhiz\auth\service\SecurityServiceImpl.class
+com\paywhiz\auth\service\UserService.class
+com\paywhiz\auth\WebApplication.class
+com\paywhiz\auth\repository\RoleRepository.class
+com\paywhiz\auth\WebSecurityConfig.class
+com\paywhiz\auth\model\User.class
+com\paywhiz\auth\service\SecurityService.class
+com\paywhiz\auth\model\Transaction.class
+com\paywhiz\auth\validator\UserValidator.class
+com\paywhiz\auth\service\UserDetailsServiceImpl.class
+com\paywhiz\auth\model\Role.class
+com\paywhiz\auth\repository\UserRepository.class
+com\paywhiz\auth\web\UserController.class
+com\paywhiz\auth\web\UserRestController.class

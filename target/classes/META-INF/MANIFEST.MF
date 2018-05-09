@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: auth
+Implementation-Version: 1.4.4.RELEASE
+Built-By: Tushar
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/auth/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
